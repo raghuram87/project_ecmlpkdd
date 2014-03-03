@@ -1,0 +1,151 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Aldous, }1983]{aldous1983random}
+Aldous, David. 1983.
+\newblock Random walks on finite groups and rapidly mixing Markov chains.
+\newblock {\em Pages  243--297 of:} {\em Seminar on probability, XVII},  vol.
+  986.
+\newblock Springer.
+
+\bibitem[\protect\citename{Biswas \& Ye, }2006]{biswas2006distributed}
+Biswas, Pratik, \& Ye, Yinyu. 2006.
+\newblock A distributed method for solving semidefinite programs arising from
+  ad hoc wireless sensor network localization.
+\newblock {\em Pages  69--84 of:} {\em Multiscale optimization methods and
+  applications}.
+\newblock Springer.
+
+\bibitem[\protect\citename{Boyd {\em et~al.}, }2003]{Boyd03fastestmixing}
+Boyd, Stephen, Diaconis, Persi, \& Xiao, Lin. 2003.
+\newblock Fastest Mixing Markov Chain on A Graph.
+\newblock {\em SIAM REVIEW}, {\bf 46}, 667--689.
+
+\bibitem[\protect\citename{Cortes \& Vapnik, }1995]{cortes1995support}
+Cortes, Corinna, \& Vapnik, Vladimir. 1995.
+\newblock Support vector machine.
+\newblock {\em Machine learning}, {\bf 20}(3), 273--297.
+
+\bibitem[\protect\citename{Diaconis, }1988]{diaconis1988group}
+Diaconis, Persi. 1988.
+\newblock Group representations in probability and statistics.
+\newblock {\em Lecture Notes-Monograph Series}, {\bf 11}, i--192.
+
+\bibitem[\protect\citename{Diaconis \& Stroock, }1991]{diaconis1991geometric}
+Diaconis, Persi, \& Stroock, Daniel. 1991.
+\newblock Geometric bounds for eigenvalues of Markov chains.
+\newblock {\em The Annals of Applied Probability}, {\bf 1}(1), 36--61.
+
+\bibitem[\protect\citename{Douc {\em et~al.}, }2004]{douc2004quantitative}
+Douc, Randal, Moulines, E, \& Rosenthal, Jeffrey~S. 2004.
+\newblock Quantitative bounds on convergence of time-inhomogeneous Markov
+  chains.
+\newblock {\em The Annals of Applied Probability}, {\bf 14}(4), 1643--1665.
+
+\bibitem[\protect\citename{Hensel \& Dutta, }n.d.]{Hensel_gadgetsvm}
+Hensel, Chase, \& Dutta, Haimonti.
+\newblock {\em GADGET SVM: a Gossip-bAseD sub-GradiEnT SVM solver}.
+
+\bibitem[\protect\citename{Jerrum \& Sinclair, }1989]{jerrum1989approximating}
+Jerrum, Mark, \& Sinclair, Alistair. 1989.
+\newblock Approximating the permanent.
+\newblock {\em SIAM journal on computing}, {\bf 18}(6), 1149--1178.
+
+\bibitem[\protect\citename{Kahale, }1997]{kahale1997semidefinite}
+Kahale, Nabil. 1997.
+\newblock A semidefinite bound for mixing rates of Markov chains.
+\newblock {\em Random Structures \& Algorithms}, {\bf 11}(4), 299--313.
+
+\bibitem[\protect\citename{Kempe \& McSherry, }2008]{kempe2008decentralized}
+Kempe, David, \& McSherry, Frank. 2008.
+\newblock A decentralized algorithm for spectral analysis.
+\newblock {\em Journal of Computer and System Sciences}, {\bf 74}(1), 70--83.
+
+\bibitem[\protect\citename{Kempe {\em et~al.},
+  }2003]{Kempe03gossip-basedcomputation}
+Kempe, David, Dobra, Alin, \& Gehrke, Johannes. 2003.
+\newblock Gossip-Based Computation of Aggregate Information.
+\newblock IEEE Computer Society.
+
+\bibitem[\protect\citename{Kokiopoulou \& Frossard,
+  }2006]{kokiopoulou2006distributed}
+Kokiopoulou, Effrosini, \& Frossard, Pascal. 2006.
+\newblock Distributed SVM applied to image classification.
+\newblock {\em Pages  1753--1756 of:} {\em Multimedia and Expo, 2006 IEEE
+  International Conference on}.
+\newblock IEEE.
+
+\bibitem[\protect\citename{Lov{\'a}sz, }1993]{lovasz1993random}
+Lov{\'a}sz, L{\'a}szl{\'o}. 1993.
+\newblock Random walks on graphs: A survey.
+\newblock {\em Combinatorics, Paul erdos is eighty}, {\bf 2}(1), 1--46.
+
+\bibitem[\protect\citename{Lu {\em et~al.}, }2008]{lu2008distributed}
+Lu, Yumao, Roychowdhury, Vwani, \& Vandenberghe, Lieven. 2008.
+\newblock Distributed parallel support vector machines in strongly connected
+  networks.
+\newblock {\em Neural Networks, IEEE Transactions on}, {\bf 19}(7), 1167--1178.
+
+\bibitem[\protect\citename{Montresor \& Jelasity, }2009]{p2p09-peersim}
+Montresor, Alberto, \& Jelasity, M\'{a}rk. 2009 (Sept.).
+\newblock {PeerSim}: A Scalable {P2P} Simulator.
+\newblock {\em Pages  99--100 of:} {\em Proc. of the 9th Int. Conference on
+  Peer-to-Peer (P2P'09)}.
+
+\bibitem[\protect\citename{Rajagopalan \& Shah,
+  }2011]{rajagopalan2011distributed}
+Rajagopalan, Shreevatsa, \& Shah, Devavrat. 2011.
+\newblock Distributed averaging in dynamic networks.
+\newblock {\em Selected Topics in Signal Processing, IEEE Journal of}, {\bf
+  5}(4), 845--854.
+
+\bibitem[\protect\citename{Saloff-Coste \& Z{\'u}{\~n}iga,
+  }2007]{saloff2007convergence}
+Saloff-Coste, L, \& Z{\'u}{\~n}iga, J. 2007.
+\newblock Convergence of some time inhomogeneous Markov chains via spectral
+  techniques.
+\newblock {\em Stochastic processes and their applications}, {\bf 117}(8),
+  961--979.
+
+\bibitem[\protect\citename{Saloff-Coste \& Z{\'u}{\~n}iga,
+  }2009]{saloff2009merging}
+Saloff-Coste, Laurent, \& Z{\'u}{\~n}iga, J. 2009.
+\newblock Merging for time inhomogeneous finite Markov chains, Part I: singular
+  values and stability.
+\newblock {\em Electronic Journal of Probability}, {\bf 14}, 1456--1494.
+
+\bibitem[\protect\citename{Saloff-Coste \& Z{\'u}{\~n}iga,
+  }2010]{saloff2010time}
+Saloff-Coste, Laurent, \& Z{\'u}{\~n}iga, J. 2010.
+\newblock Time inhomogeneous Markov chains with wave-like behavior.
+\newblock {\em The Annals of Applied Probability}, {\bf 20}(5), 1831--1853.
+
+\bibitem[\protect\citename{Saloff-Coste \& Zuniga, }2010]{saloff2010merging}
+Saloff-Coste, Laurent, \& Zuniga, Jessica. 2010.
+\newblock Merging and stability for time inhomogeneous finite Markov chains.
+\newblock {\em arXiv preprint arXiv:1004.2296}.
+
+\bibitem[\protect\citename{Shah, }2009]{Shah}
+Shah, Devavrat. 2009.
+\newblock {\em Gossip Algorithms}.
+\newblock Tech. rept. Massachusetts Institute of Technology, Cambridge, MA.
+
+\bibitem[\protect\citename{Shah \& Zaman, }2011]{shah2011rumors}
+Shah, Devavrat, \& Zaman, Tauhid. 2011.
+\newblock Rumors in a Network: Who's the Culprit?
+\newblock {\em Information Theory, IEEE Transactions on}, {\bf 57}(8),
+  5163--5181.
+
+\bibitem[\protect\citename{Sinclair, }1992]{sinclair1992improved}
+Sinclair, Alistair. 1992.
+\newblock {\em Improved bounds for mixing rates of Markov chains and
+  multicommodity flow}.
+\newblock Springer.
+
+\bibitem[\protect\citename{Voulgaris {\em et~al.}, }2003]{Voulgaris03arobust}
+Voulgaris, Spyros, Jelasity, Márk, \& Steen, Maarten~Van. 2003.
+\newblock A Robust and Scalable Peer-to-Peer Gossiping Protocol.
+\newblock {\em Pages  47--58 of:} {\em In 2nd Int’l Workshop Agents and
+  Peer-toPeer Computing, LNCS 2872}.
+\newblock Springer.
+
+\end{thebibliography}
